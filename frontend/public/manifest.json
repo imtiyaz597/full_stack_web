@@ -1,0 +1,19 @@
+{
+  "short_name": "Edzest",
+  "name": "Edzest Education Services",
+  "icons": [
+    {
+      "src": "Edlogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Edlogo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
+
